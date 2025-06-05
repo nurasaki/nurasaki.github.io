@@ -6,6 +6,7 @@ A simple static website hosted on GitHub Pages.
 
 ### Project Structure 
 
+```plaintext
 page/
 
 │
@@ -21,3 +22,4 @@ page/
     ├── css/
     │   └── style.css         # Optional: CSS styles
     └── img/                  # Optional: images
+```
