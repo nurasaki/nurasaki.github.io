@@ -7,8 +7,12 @@ A simple static website hosted on GitHub Pages.
 ### Project Structure 
 
 ```plaintext
-page/
 
+page/
+│
+├── pages/
+│   └── anlaysis/
+│       └── vdb-aalysis.html  # Analysis page
 │
 ├── index.html                # Main landing page
 ├── about.html                # Secondary page (e.g., About)
